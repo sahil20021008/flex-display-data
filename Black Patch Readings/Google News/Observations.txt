@@ -1,0 +1,11 @@
+Google News(with Scrolling and Dark Patch)
+Obv1: 1.58
+Obv2: 1.35
+Obv3: 1.45
+Obv4: 1.34
+Obv5: 1.52
+Avg Power:1.448
+Avg Current:0.336
+Standard Deviation:0.093680307429043
+Without Patch Power:1.45
+Total Save:0.13

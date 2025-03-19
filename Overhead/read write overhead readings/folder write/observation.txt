@@ -1,0 +1,24 @@
+Observations For folder write:
+
+Reading 1: 1.85 W 563 write
+Reading 2: 1.85 W 542 write
+Reading 3: 1.85 W 541 write
+Reading 4: 1.87 W 542 write
+Reading 5: 1.86 W 554 write
+
+Average Write: 548.4
+(Average Power - Original Power)/Average Write: 0.0536105 %
+
+
+
+Average Power: 1.856 W
+
+Average Current: 0.43 A
+0.43
+0.43
+0.43
+0.43
+0.43
+
+
+Standard Deviation: 0.008

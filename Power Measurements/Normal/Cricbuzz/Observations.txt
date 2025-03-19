@@ -1,0 +1,13 @@
+Observations For Normal Cricbuzz (With scroll Script):
+
+Reading 1: 1.53 W
+Reading 2: 1.42 W
+Reading 3: 1.26 W
+Reading 4: 1.18 W
+Reading 5: 1.20 W
+
+Average Power: 1.318 W
+
+Average Current: 0.306 A
+
+Standard Deviation: 0.13541048

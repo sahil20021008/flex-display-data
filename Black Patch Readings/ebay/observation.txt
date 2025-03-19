@@ -1,0 +1,17 @@
+Observations For Black Patch Ebay:
+
+Reading 1: 1.28 W
+Reading 2: 1.34 W
+Reading 3: 1.45 W
+Reading 4: 1.38 W
+Reading 5: 1.51 W
+
+Average Power: 1.392 W
+
+Average Current: 0.324 A
+
+Standard Deviation: 0.080845531725631
+
+Power Savings: 12.342569 %
+
+Original Power:1.588 W

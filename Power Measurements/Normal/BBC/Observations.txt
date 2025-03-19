@@ -1,0 +1,13 @@
+Observations For BBC(With Scroll Scripting):
+
+Reading 1: 1.27 W
+Reading 2: 1.00 W
+Reading 3: 1.01 W
+Reading 4: 1.40 W
+Reading 5: 0.90 W
+
+Average Power: 1.116 W
+
+Average Current: 0.26
+
+Standard Deviation: 0.187467

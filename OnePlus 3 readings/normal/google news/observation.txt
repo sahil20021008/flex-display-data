@@ -1,0 +1,20 @@
+Observations For Normal Google News:
+
+Reading 1: 2.31 W -
+Reading 2: 2.48 W
+Reading 3: 2.67 W
+Reading 4: 2.52 W
+Reading 5: 2.50 W
+2.45
+
+Average Power: 2.524 W
+
+Average Current: 0.588 A
+0.54
+0.58
+0.62
+0.59
+0.58
+0.57
+
+Standard Deviation: 0.076576758876307

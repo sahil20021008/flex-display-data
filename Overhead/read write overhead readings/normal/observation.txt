@@ -1,0 +1,27 @@
+Observations For normal:
+
+Reading 1: 1.56 W
+Reading 2: 1.51 W-
+Reading 3: 1.50 W-
+Reading 4: 1.58 W-
+Reading 5: 1.56 W
+1.57
+1.56
+1.56
+
+
+
+Average Power: 1.562 W
+
+Average Current: 0.36 A
+0.36
+0.35-
+0.35-
+0.37-
+0.36
+
+0.36
+0.36
+0.36
+
+Standard Deviation: 0.004

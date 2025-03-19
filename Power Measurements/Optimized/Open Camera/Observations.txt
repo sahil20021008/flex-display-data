@@ -1,0 +1,15 @@
+Observations For Optimized Open Camera:
+
+Reading 1: 3.78 W
+Reading 2: 3.86 W
+Reading 3: 3.81 W
+Reading 4: 3.97 W
+Reading 5: 3.69 W
+
+Average Power: 3.822 W
+
+Average Current: 0.81 A
+
+Standard Deviation: 0.0923904
+
+Power Save: 29.222%

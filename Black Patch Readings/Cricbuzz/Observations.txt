@@ -1,0 +1,11 @@
+Cricbuzz(with Scrolling and Dark Patch)
+Obv1: 1.38
+Obv2: 1.29
+Obv3: 1.15
+Obv4: 1.15
+Obv5: 1.43
+Avg Power:1.28
+Avg Current:0.298
+Standard Deviation:0.1152388823271
+Without Patch Power:1.318
+Total Save:2.88%

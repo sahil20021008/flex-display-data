@@ -1,0 +1,22 @@
+Observations For Optimized Youtube:
+
+Reading 1: 0.97 W
+Reading 2: 0.89 W
+Reading 3: 0.94 W
+Reading 4: 0.89 W
+Reading 5: 1.08 W
+1.16 -
+
+Average Power: 0.954 W
+
+Average Current: 0.224 A
+0.23
+0.21
+0.22
+0.21
+0.25
+
+0.27 -
+
+Standard Deviation: 0.070028565600046
+Power Saving: 17.9001721 %

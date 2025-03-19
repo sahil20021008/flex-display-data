@@ -1,0 +1,13 @@
+Observations For Wall Street Journal(With Scroll Scripting):
+
+Reading 1: 1.63 W
+Reading 2: 1.88 W
+Reading 3: 1.70 W
+Reading 4: 1.70 W
+Reading 5: 1.49 W
+
+Average Power: 1.68 W
+
+Average Current: 0.394 A
+
+Standard Deviation: 0.1260158

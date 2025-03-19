@@ -1,0 +1,15 @@
+Observations For Optimized Skype:
+
+Reading 1: 1.92 W
+Reading 2: 1.97 W
+Reading 3: 1.93 W
+Reading 4: 1.93 W
+Reading 5: 1.90 W
+
+Average Power: 1.93 W
+
+Average Current: 0.45 A
+
+Standard Deviation: 0.0228
+
+Power Save: 47.468%

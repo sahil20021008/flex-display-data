@@ -1,0 +1,15 @@
+Observations For Optimized Twitter:
+
+Reading 1: 0.99 W
+Reading 2: 1.26 W
+Reading 3: 1.01 W
+Reading 4: 1.11 W
+Reading 5: 1.06 W
+
+Average Power: 1.086 W
+
+Average Current: 0.252 A
+
+Standard Deviation:  0.096457
+
+Power Save: 18.099%

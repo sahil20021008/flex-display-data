@@ -1,0 +1,13 @@
+Observations when Images are Enabled for InShorts:
+
+Reading 1 : 1.85 W
+Reading 2 : 2.01 W
+Reading 3 : 1.92 W
+Reading 4 : 2.00 W
+Reading 5 : 1.74 W
+
+Average Power: 1.904 W
+
+Average Current: 0.444 A
+
+Standard Deviation: 0.100518654 

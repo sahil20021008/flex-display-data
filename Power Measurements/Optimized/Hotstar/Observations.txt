@@ -1,0 +1,15 @@
+Observations For Optimized Hotstar:
+
+Reading 1: 1.56 W 
+Reading 2: 1.57 W
+Reading 3: 1.57 W 
+Reading 4: 1.73 W -
+Reading 5: 1.53 W
+1.58
+
+Average Power: 1.562 W
+
+Average Current: 0.364 A
+
+Standard Deviation: 0.017204650534085
+Power Saving: 14.175824 %

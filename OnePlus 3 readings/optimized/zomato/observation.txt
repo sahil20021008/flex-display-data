@@ -1,0 +1,24 @@
+Observations For Optimized Zomato:
+
+Reading 1: 1.37 W -
+Reading 2: 0.39 W -
+Reading 3: 0.63 W
+Reading 4: 0.64 W
+Reading 5: 0.60 W
+0.66
+0.57
+
+Average Power: 0.62 W
+
+Average Current: 1.144 A
+0.32
+0.09
+0.15
+0.15
+0.14
+
+0.15
+0.13
+
+Standard Deviation: 0.031622776601684
+Power Savings: 11.42857 %

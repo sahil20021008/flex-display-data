@@ -1,0 +1,15 @@
+Observations For Optimized WhatsApp (Text):
+
+Reading 1: 3.08 W
+Reading 2: 2.27 W
+Reading 3: 2.24 W
+Reading 4: 2.33 W
+Reading 5: 2.27 W
+
+Average Power: 2.48 W
+
+Average Current: 0.568 A
+
+Standard Deviation: 0.322329
+
+Power Save: 46.66%

@@ -1,0 +1,13 @@
+Observations For Normal Google Meet (Video On - 3 Participants):
+
+Reading 1: 4.60 W
+Reading 2: 4.61 W
+Reading 3: 4.68 W
+Reading 4: 4.66 W
+Reading 5: 4.70 W
+
+Average Power: 4.65 W
+
+Average Current: 1.08 A
+
+Standard Deviation: 0.03898

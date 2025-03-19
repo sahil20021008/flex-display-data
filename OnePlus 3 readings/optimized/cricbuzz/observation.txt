@@ -1,0 +1,25 @@
+Observations For Optimized Cricbuzz:
+
+Reading 1: 2.15 W
+Reading 2: 2.18 W
+Reading 3: 2.16 W
+Reading 4: 2.24 W
+Reading 5: 2.48 W -
+2.25
+2.30 -
+
+Average Power: 2.196 W
+
+Average Current: 0.51 A
+0.50
+0.51
+0.50
+0.52
+0.58
+
+0.52
+0.54
+
+Standard Deviation: 0.041279534881101
+
+Power Saving: 12.85714 %

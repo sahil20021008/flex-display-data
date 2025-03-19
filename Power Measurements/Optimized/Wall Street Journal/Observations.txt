@@ -1,0 +1,15 @@
+Observations For Optimized WSJ:
+
+Reading 1: 1.50 W
+Reading 2: 1.49 W
+Reading 3: 1.47 W
+Reading 4: 1.58 W
+Reading 5: 1.55 W
+
+Average Power: 1.51 W
+
+Average Current: 0.354 A
+
+Standard Deviation: 0.040693
+
+Power Save: 10.11%

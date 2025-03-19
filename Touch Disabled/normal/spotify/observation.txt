@@ -1,0 +1,26 @@
+Observations For Normal Spotify:
+
+Reading 1: 2.94 W -
+Reading 2: 2.81 W -
+Reading 3: 2.58 W -
+Reading 4: 2.26 W -
+Reading 5: 2.07 W
+2.06
+2.05
+2.07
+2.07
+
+Average Power: 2.064 W
+
+Average Current: 0.48 A
+0.68 -
+0.65 -
+0.60 -
+0.53 -
+0.48 
+0.48
+0.48
+0.48
+0.48
+
+Standard Deviation: 0.008

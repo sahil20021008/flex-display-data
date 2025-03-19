@@ -1,0 +1,11 @@
+Google Meet(Dark Patch)
+Obv1: 4.32 
+Obv2: 4.34
+Obv3: 4.34
+Obv4: 4.24
+Obv5: 4.39
+Avg Power:4.326
+Avg Current:1.006
+Standard Deviation:0.048826222
+Without Patch Power:4.65
+Total Save: 6.96%

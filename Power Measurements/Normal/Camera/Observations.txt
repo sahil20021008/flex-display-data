@@ -1,0 +1,13 @@
+Observations For Normal Camera:
+
+Reading 1: 4.57 W
+Reading 2: 4.32 W
+Reading 3: 4.32 W
+Reading 4: 4.27 W
+Reading 5: 4.37 W
+
+Average Power: 4.37 W
+
+Average Current: 1.014 A
+
+Standard Deviation: 0.11726

@@ -1,0 +1,11 @@
+Reuters(with Scrolling and Dark Patch)
+Obv1: 1.37
+Obv2: 1.26
+Obv3: 1.36
+Obv4: 1.19
+Obv5: 1.11
+Avg Power:1.258
+Avg Current:0.294
+Standard Deviation: 0.099478640923567
+Without Patch Power:1.282
+Total Save:1.74%

@@ -1,0 +1,13 @@
+Observations For Normal Working Youtube:
+
+Reading 1: 1.52 W
+Reading 2: 1.49 W
+Reading 3: 1.49 W
+Reading 4: 1.48 W
+Reading 5: 1.49 W
+
+Average Power: 1.494 W
+
+Average Current: 0.348 A
+
+Standard Deviation: 0.013564

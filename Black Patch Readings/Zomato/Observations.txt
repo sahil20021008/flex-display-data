@@ -1,0 +1,11 @@
+Zomato(with Scrolling and Dark Patch)
+Obv1: 1.87
+Obv2: 1.69
+Obv3: 1.54
+Obv4: 1.49
+Obv5: 1.68
+Avg Power:1.654
+Avg Current:0.384
+Standard Deviation:0.13305637902784
+Without Patch Power:1.816
+Total Save: 8.9%

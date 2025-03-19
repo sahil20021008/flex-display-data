@@ -1,0 +1,16 @@
+Observations For Black Patch Youtube:
+
+Reading 1: 1.52 W 
+Reading 2: 1.51 W 
+Reading 3: 1.47 W 
+Reading 4: 1.53 W
+Reading 5: 1.50 W
+
+Average Power: 1.506 W
+
+Average Current: 0.35 A
+
+Standard Deviation: 0.020591260281974
+
+Original Power: 1.494 W
+Power Saving: -0.80321 %

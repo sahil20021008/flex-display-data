@@ -1,0 +1,18 @@
+Observations For Normal Zomato:
+
+Reading 1: 0.72 W
+Reading 2: 0.71 W
+Reading 3: 0.67 W
+Reading 4: 0.68 W
+Reading 5: 0.72 W
+
+Average Power: 0.7 W
+
+Average Current: 0.166 A
+0.17
+0.17
+0.16
+0.16
+0.17
+
+Standard Deviation: 0.020976176963403

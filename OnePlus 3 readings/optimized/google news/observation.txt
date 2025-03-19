@@ -1,0 +1,25 @@
+Observations For optimized google news:
+
+Reading 1: 2.23 W
+Reading 2: 2.25 W
+Reading 3: 2.49 W -
+Reading 4: 2.17 W
+Reading 5: 2.21 W
+2.34 -
+2.30
+
+Average Power: 2.232 W
+
+Average Current: 0.518 A
+0.52
+0.52
+0.58 - 
+0.51
+0.51
+
+0.54 -
+0.53
+
+
+Standard Deviation: 0.043081318457076
+Power Savings: 11.568938 %

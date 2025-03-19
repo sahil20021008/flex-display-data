@@ -1,0 +1,15 @@
+Observations For Optimized BBC News:
+
+Reading 1: 1.06 W
+Reading 2: 1.08 W
+Reading 3: 1.08 W
+Reading 4: 1.03 W
+Reading 5: 1.06 W
+
+Average Power: 1.062 W
+
+Average Current: 0.248 A
+
+Standard Deviation: 0.0183303
+
+Power Save: 4.83%

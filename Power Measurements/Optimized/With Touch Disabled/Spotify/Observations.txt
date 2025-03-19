@@ -1,0 +1,15 @@
+Observations For Optimized and Touch Disabled Spotify:
+
+Reading 1: 1.20 W
+Reading 2: 1.13 W
+Reading 3: 0.78 W
+Reading 4: 0.70 W
+Reading 5: 0.73 W
+
+Average Power: 0.908 W
+
+Average Current: 0.21 A
+
+Standard Deviation: 0.212546 
+
+Power Save: 4.62%

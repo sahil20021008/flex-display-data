@@ -1,0 +1,16 @@
+Observations For Black Patch Skype:
+
+Reading 1: 4.58 W
+Reading 2: 4.64 W
+Reading 3: 4.73 W
+Reading 4: 4.75 W
+Reading 5: 4.74 W
+
+Average Power: 4.688 W
+
+Average Current: 1.088 A
+
+Standard Deviation: 0.066753277073115
+
+Original Power: 3.674 W
+Power Savings: -27.59934 %

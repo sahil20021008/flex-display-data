@@ -1,0 +1,13 @@
+Observations For Normal Twitter:
+
+Reading 1: 1.37 W
+Reading 2: 1.25 W
+Reading 3: 1.37 W
+Reading 4: 1.30 W
+Reading 5: 1.37 W
+
+Average Power: 1.326 W
+
+Average Current: 0.312 A
+
+Standard Deviation: 0.045869

@@ -1,0 +1,13 @@
+Observations For Normal Open Camera:
+
+Reading 1: 5.49 W
+Reading 2: 5.72 W
+Reading 3: 5.74 W
+Reading 4: 5.02 W
+Reading 5: 5.04 W
+
+Average Power: 5.40 W
+
+Average Current: 1.254 A
+
+Standard Deviation: 0.31625306

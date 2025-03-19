@@ -1,0 +1,15 @@
+Observations For Normal Ebay:
+
+Reading 1: 1.50 W 
+Reading 2: 1.69 W
+Reading 3: 1.64 W
+Reading 4: 1.75 W -
+Reading 5: 1.61 W
+1.50
+
+Average Power: 1.588 W
+
+Average Current: 0.368 A
+
+
+Standard Deviation: 0.07626270385975
