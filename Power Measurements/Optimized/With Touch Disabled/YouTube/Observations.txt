@@ -1,0 +1,15 @@
+Observations For Optimized and Touch disabled Youtube:
+
+Reading 1: 1.31 W
+Reading 2: 1.27 W
+Reading 3: 1.25 W
+Reading 4: 1.24 W
+Reading 5: 1.24 W
+
+Average Power: 1.262 W
+
+Average Current: 0.292 A
+
+Standard Deviation: 0.0263818
+
+Power Save: 15.52%
